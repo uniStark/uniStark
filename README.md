@@ -1,4 +1,5 @@
 ### Hi there 👋
+ - 👨🏻‍💻 Patients who use Apple products heavily.
  - 💼 I am looking for cool jobs as java development engineer.
  - 📮 How to reach me: BeammStark@Gmail.com.
  - 😄 Peace & Love.
