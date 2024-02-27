@@ -1,6 +1,6 @@
 ### Hi there 👋
  - 👨🏻‍💻 Patients who use Apple products heavily.
- - 💼 I am looking for cool jobs as java development engineer.
+ - 💼 I am looking for cool jobs as about Artificial Intelligence.
  - 📮 How to reach me: BeammStark@Gmail.com.
  - 😄 Peace & Love.
 <!--
