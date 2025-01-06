@@ -3,7 +3,13 @@
  - 💼 I am looking for cool jobs as about Artificial Intelligence.
  - 📮 How to reach me: BeammStark@Gmail.com.
  - 😄 Peace & Love.
+### Github 活跃度
 
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
 <!--
 **BeammNotFound/BeammNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
