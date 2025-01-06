@@ -3,13 +3,14 @@
 - 💼 I am looking for cool jobs as about Artificial Intelligence.
 - 📮 How to reach me: BeammStark@Gmail.com.
 - 😄 Peace & Love.
-### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=uniStark&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![uniStark's github stats](https://github-readme-stats.vercel.app/api?username=uniStark&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&langs_count=6&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&langs_count=6&theme=tokyonight)
 <!--
 **BeammNotFound/BeammNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
