@@ -5,12 +5,7 @@
 - 😄 Peace & Love.
 
 [![](https://activity-graph.herokuapp.com/graph?username=uniStark&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![uniStark's github stats](https://github-readme-stats.vercel.app/api?username=uniStark&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&langs_count=6&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&langs_count=6&theme=tokyonight)
+![uniStark's github stats](https://github-readme-stats.vercel.app/api?username=uniStark&show_icons=true&theme=tokyonight)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&langs_count=6&theme=tokyonight)
 <!--
 **BeammNotFound/BeammNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
