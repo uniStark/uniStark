@@ -3,6 +3,7 @@
  - 💼 I am looking for cool jobs as about Artificial Intelligence.
  - 📮 How to reach me: BeammStark@Gmail.com.
  - 😄 Peace & Love.
+
 <!--
 **BeammNotFound/BeammNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ - ⚡ About me：
+   - https://space.bilibili.com/11027150?spm_id_from=333.1007.0.0
+   - https://www.zhihu.com/people/liang-hao-82-28
 -->
