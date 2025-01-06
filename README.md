@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋 Hi There 
  - 👨🏻‍💻 Patients who use Apple products heavily.
  - 💼 I am looking for cool jobs as about Artificial Intelligence.
  - 📮 How to reach me: BeammStark@Gmail.com.
