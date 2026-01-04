@@ -1,7 +1,11 @@
 ### 👋 Hi There
-- 👨🏻‍💻 Patients who are heavy users of Apple products.
-- 💼 I’m looking for exciting jobs related to Artificial Intelligence.
-- 📮 You can reach me at: BeammStark@Gmail.com
-- 😄 Peace & love ✌️
+- 👨🏻‍💻 AI Engineer · Builder of AI-powered design tools  
+- 🧠 Java / Python · Image Generation · Photoshop Plugins  
+- 🍎 Apple ecosystem power user  
+
+- 💼 Open to AI roles & global collaborations  
+
+- 📮 beammstark@gmail.com  
+- ✌️ Peace & love
 
 - ![](https://komarev.com/ghpvc/?username=uniStark&color=blueviolet)
