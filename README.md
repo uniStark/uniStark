@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=8B5CF6&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+Founder;Vibe+Coder+%C2%B7+No+language+is+a+limit;Apple+Ecosystem+Power+User;Building+AI-native+products+%26+creative+tools" alt="typing" />
 </a>
 
+![](https://img.shields.io/github/followers/uniStark?style=social)
+![](https://img.shields.io/badge/Open_to-AI_roles_%26_collabs-blueviolet?style=flat-square)
+
 </div>
 
 ---
@@ -14,7 +17,6 @@
 - ⚡ **Vibe coder** — not limited by language, driven by ideas
 - 🚀 **High-leverage solo builder** on the path to an AI-native company
 - 🍎 **Apple ecosystem power user**
-- 💼 Open to **AI roles & global collaborations**
 
 ### 🛠️ Tech I work with
 
@@ -27,33 +29,17 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=uniStark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-</td>
-</tr>
-</table>
+| Project | Description | Stack | Stars |
+|---|---|---|---|
+| **[TokenUsed](https://github.com/uniStark/TokenUsed)** | UsageBoard plugins aggregating Claude Code / Gemini / Codex CLI token usage | Python · Swift · macOS | ![](https://img.shields.io/github/stars/uniStark/TokenUsed?style=flat-square&label=) |
+| **[openwaner](https://github.com/uniStark/openwaner)** | Open blueprint for a local AI chief-of-staff with persona routing & memory layers | AI · Concept | ![](https://img.shields.io/github/stars/uniStark/openwaner?style=flat-square&label=) |
+| **[get-jobs-boss](https://github.com/uniStark/get-jobs-boss)** | Auto-apply on Boss直聘 — one of a small `get-jobs-*` family | Java | ![](https://img.shields.io/github/stars/uniStark/get-jobs-boss?style=flat-square&label=) |
+| **[taobao-buyer](https://github.com/uniStark/taobao-buyer)** | Auto-purchase / 秒杀 on Taobao | Java | ![](https://img.shields.io/github/stars/uniStark/taobao-buyer?style=flat-square&label=) |
+| **[Todos](https://github.com/uniStark/Todos)** | Next-gen TypeScript todo list | TypeScript | ![](https://img.shields.io/github/stars/uniStark/Todos?style=flat-square&label=) |
 
-### 📌 Featured
-
-<a href="https://github.com/uniStark/TokenUsed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=TokenUsed&hide_border=true&theme=tokyonight" alt="TokenUsed" />
-</a>
-<a href="https://github.com/uniStark/openwaner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=openwaner&hide_border=true&theme=tokyonight" alt="openwaner" />
-</a>
-<a href="https://github.com/uniStark/get-jobs-boss">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=get-jobs-boss&hide_border=true&theme=tokyonight" alt="get-jobs-boss" />
-</a>
-<a href="https://github.com/uniStark/Todos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=Todos&hide_border=true&theme=tokyonight" alt="Todos" />
-</a>
+> See more on the [pinned section of my profile](https://github.com/uniStark) — these are highlights, not the full set.
 
 ### 📮 Get in Touch
 
