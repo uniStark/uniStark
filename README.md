@@ -1,13 +1,71 @@
-### 👋 Hi there
+<div align="center">
 
-- 👨🏻‍💻 AI Engineer · Founder building AI-native products and creative tools  
-- ⚡ Vibe coder · Not limited by language, driven by ideas  
-- 🚀 High-leverage solo builder on the path to an AI-native company  
-- 🍎 Apple ecosystem power user  
+# 👋 Hi, I'm Stark
 
-- 💼 Open to AI roles & global collaborations  
+<a href="https://github.com/uniStark">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=8B5CF6&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+Founder;Vibe+Coder+%C2%B7+No+language+is+a+limit;Apple+Ecosystem+Power+User;Building+AI-native+products+%26+creative+tools" alt="typing" />
+</a>
 
-- 📮 beammstark@gmail.com  
-- ✌️ Peace & love  
+</div>
 
-- ![](https://komarev.com/ghpvc/?username=uniStark&color=blueviolet)
+---
+
+- 👨🏻‍💻 **AI Engineer · Founder** — building AI-native products and creative tools
+- ⚡ **Vibe coder** — not limited by language, driven by ideas
+- 🚀 **High-leverage solo builder** on the path to an AI-native company
+- 🍎 **Apple ecosystem power user**
+- 💼 Open to **AI roles & global collaborations**
+
+### 🛠️ Tech I work with
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+### 📊 GitHub Stats
+
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=uniStark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+</td>
+</tr>
+</table>
+
+### 📌 Featured
+
+<a href="https://github.com/uniStark/TokenUsed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=TokenUsed&hide_border=true&theme=tokyonight" alt="TokenUsed" />
+</a>
+<a href="https://github.com/uniStark/openwaner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=openwaner&hide_border=true&theme=tokyonight" alt="openwaner" />
+</a>
+<a href="https://github.com/uniStark/get-jobs-boss">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=get-jobs-boss&hide_border=true&theme=tokyonight" alt="get-jobs-boss" />
+</a>
+<a href="https://github.com/uniStark/Todos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=Todos&hide_border=true&theme=tokyonight" alt="Todos" />
+</a>
+
+### 📮 Get in Touch
+
+- ✉️ &nbsp;[beammstark@gmail.com](mailto:beammstark@gmail.com)
+<!-- 🐦 Twitter/X 占位：把下行解开注释并填 handle，如 [@yourhandle](https://x.com/yourhandle) -->
+
+---
+
+<div align="center">
+
+✌️ Peace & love
+
+<img src="https://komarev.com/ghpvc/?username=uniStark&color=blueviolet&label=visitors" alt="visitor counter" />
+
+</div>
