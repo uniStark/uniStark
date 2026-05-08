@@ -34,10 +34,10 @@
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=uniStark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
+  <img src="https://unistark-stats.vercel.app/api?username=uniStark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+  <img src="https://unistark-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
 </td>
 </tr>
 </table>
@@ -45,16 +45,16 @@
 ### 📌 Featured
 
 <a href="https://github.com/uniStark/TokenUsed">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=TokenUsed&hide_border=true&theme=tokyonight" alt="TokenUsed" />
+  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=TokenUsed&hide_border=true&theme=tokyonight" alt="TokenUsed" />
 </a>
 <a href="https://github.com/uniStark/openwaner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=openwaner&hide_border=true&theme=tokyonight" alt="openwaner" />
+  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=openwaner&hide_border=true&theme=tokyonight" alt="openwaner" />
 </a>
 <a href="https://github.com/uniStark/get-jobs-boss">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=get-jobs-boss&hide_border=true&theme=tokyonight" alt="get-jobs-boss" />
+  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=get-jobs-boss&hide_border=true&theme=tokyonight" alt="get-jobs-boss" />
 </a>
 <a href="https://github.com/uniStark/Todos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=Todos&hide_border=true&theme=tokyonight" alt="Todos" />
+  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=Todos&hide_border=true&theme=tokyonight" alt="Todos" />
 </a>
 
 ### 📮 Get in Touch
