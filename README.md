@@ -29,17 +29,33 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-### 📌 Featured Projects
+### 📊 GitHub Stats
 
-| Project | Description | Stack | Stars |
-|---|---|---|---|
-| **[TokenUsed](https://github.com/uniStark/TokenUsed)** | UsageBoard plugins aggregating Claude Code / Gemini / Codex CLI token usage | Python · Swift · macOS | ![](https://img.shields.io/github/stars/uniStark/TokenUsed?style=flat-square&label=) |
-| **[openwaner](https://github.com/uniStark/openwaner)** | Open blueprint for a local AI chief-of-staff with persona routing & memory layers | AI · Concept | ![](https://img.shields.io/github/stars/uniStark/openwaner?style=flat-square&label=) |
-| **[get-jobs-boss](https://github.com/uniStark/get-jobs-boss)** | Auto-apply on Boss直聘 — one of a small `get-jobs-*` family | Java | ![](https://img.shields.io/github/stars/uniStark/get-jobs-boss?style=flat-square&label=) |
-| **[taobao-buyer](https://github.com/uniStark/taobao-buyer)** | Auto-purchase / 秒杀 on Taobao | Java | ![](https://img.shields.io/github/stars/uniStark/taobao-buyer?style=flat-square&label=) |
-| **[Todos](https://github.com/uniStark/Todos)** | Next-gen TypeScript todo list | TypeScript | ![](https://img.shields.io/github/stars/uniStark/Todos?style=flat-square&label=) |
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=uniStark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+</td>
+</tr>
+</table>
 
-> See more on the [pinned section of my profile](https://github.com/uniStark) — these are highlights, not the full set.
+### 📌 Featured
+
+<a href="https://github.com/uniStark/TokenUsed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=TokenUsed&hide_border=true&theme=tokyonight" alt="TokenUsed" />
+</a>
+<a href="https://github.com/uniStark/openwaner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=openwaner&hide_border=true&theme=tokyonight" alt="openwaner" />
+</a>
+<a href="https://github.com/uniStark/get-jobs-boss">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=get-jobs-boss&hide_border=true&theme=tokyonight" alt="get-jobs-boss" />
+</a>
+<a href="https://github.com/uniStark/Todos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniStark&repo=Todos&hide_border=true&theme=tokyonight" alt="Todos" />
+</a>
 
 ### 📮 Get in Touch
 
