@@ -6,6 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=8B5CF6&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+Founder;Vibe+Coder+%C2%B7+No+language+is+a+limit;Apple+Ecosystem+Power+User;Building+AI-native+products+%26+creative+tools" alt="typing" />
 </a>
 
+### 🌐 [portfolio-unistark.vercel.app](https://portfolio-unistark.vercel.app)
+
+<a href="https://portfolio-unistark.vercel.app">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-→-5EEAD4?style=for-the-badge&labelColor=000000" alt="Visit Portfolio" />
+</a>
+<a href="https://x.com/0xuniStark">
+  <img src="https://img.shields.io/badge/𝕏-@0xuniStark-000000?style=for-the-badge&labelColor=000000" alt="@0xuniStark" />
+</a>
+
 ![](https://img.shields.io/github/followers/uniStark?style=social)
 ![](https://img.shields.io/badge/Open_to-AI_roles_%26_collabs-blueviolet?style=flat-square)
 
