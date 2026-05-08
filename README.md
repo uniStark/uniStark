@@ -58,7 +58,7 @@
 ### 📮 Get in Touch
 
 - ✉️ &nbsp;[beammstark@gmail.com](mailto:beammstark@gmail.com)
-<!-- 🐦 Twitter/X 占位：把下行解开注释并填 handle，如 [@yourhandle](https://x.com/yourhandle) -->
+- 𝕏 &nbsp;[@0xuniStark](https://x.com/0xuniStark)
 
 ---
 
