@@ -53,8 +53,8 @@
 
 ### 📌 Featured
 
-<a href="https://github.com/uniStark/TokenUsed">
-  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=TokenUsed&hide_border=true&theme=tokyonight" alt="TokenUsed" />
+<a href="https://github.com/uniStark/token-used">
+  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=token-used&hide_border=true&theme=tokyonight" alt="token-used" />
 </a>
 <a href="https://github.com/uniStark/openwaner">
   <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=openwaner&hide_border=true&theme=tokyonight" alt="openwaner" />
@@ -62,8 +62,8 @@
 <a href="https://github.com/uniStark/get-jobs-boss">
   <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=get-jobs-boss&hide_border=true&theme=tokyonight" alt="get-jobs-boss" />
 </a>
-<a href="https://github.com/uniStark/Todos">
-  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=Todos&hide_border=true&theme=tokyonight" alt="Todos" />
+<a href="https://github.com/uniStark/todos">
+  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=todos&hide_border=true&theme=tokyonight" alt="todos" />
 </a>
 
 ### 📮 Get in Touch
