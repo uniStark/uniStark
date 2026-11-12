@@ -1,82 +1,33 @@
 <div align="center">
 
-# 👋 Hi, I'm Stark
+# Adrian Stark
 
-<a href="https://github.com/uniStark">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=8B5CF6&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+Founder;Vibe+Coder+%C2%B7+No+language+is+a+limit;Apple+Ecosystem+Power+User;Building+AI-native+products+%26+creative+tools" alt="typing" />
-</a>
+**AI engineer · indie maker.** I build small tools that do one thing well.
 
-### 🌐 [portfolio-unistark.vercel.app](https://portfolio-unistark.vercel.app)
+`Swift` `SwiftUI` `TypeScript` `React` `Python` `Java`
 
-<a href="https://portfolio-unistark.vercel.app">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-→-5EEAD4?style=for-the-badge&labelColor=000000" alt="Visit Portfolio" />
-</a>
-<a href="https://x.com/0xuniStark">
-  <img src="https://img.shields.io/badge/𝕏-@0xuniStark-000000?style=for-the-badge&labelColor=000000" alt="@0xuniStark" />
-</a>
-
-![](https://img.shields.io/github/followers/uniStark?style=social)
-![](https://img.shields.io/badge/Open_to-AI_roles_%26_collabs-blueviolet?style=flat-square)
+[Portfolio](https://portfolio-unistark.vercel.app) &nbsp;·&nbsp; [X](https://x.com/0xuniStark) &nbsp;·&nbsp; [Email](mailto:beammstark@gmail.com)
 
 </div>
 
 ---
 
-- 👨🏻‍💻 **AI Engineer · Founder** — building AI-native products and creative tools
-- ⚡ **Vibe coder** — not limited by language, driven by ideas
-- 🚀 **High-leverage solo builder** on the path to an AI-native company
-- 🍎 **Apple ecosystem power user**
+### Now
 
-### 🛠️ Tech I work with
+**[pi-session-find](https://github.com/uniStark/pi-session-find)** · **[pi-open-path-links](https://github.com/uniStark/pi-open-path-links)** `TypeScript` — Two extensions for the [pi](https://pi.dev) coding agent, both on npm. One adds a `/find` overlay that searches your full session history without injecting anything into model context; the other turns bare file paths in output into clickable links.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+**[audiooook](https://github.com/uniStark/audiooook)** `React` — Self-hosted, multi-user audiobook player built for your phone. React 18 + Express + SQLite, FFmpeg transcoding, PWA offline mode, one-line Docker deploy. [Live demo](https://audiooook-demo.vercel.app).
 
-### 📊 GitHub Stats
+### Selected work
 
-<table>
-<tr>
-<td>
-  <img src="https://unistark-stats.vercel.app/api?username=uniStark&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-</td>
-<td>
-  <img src="https://unistark-stats.vercel.app/api/top-langs/?username=uniStark&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-</td>
-</tr>
-</table>
+**[get-jobs-boss](https://github.com/uniStark/get-jobs-boss)** · [get-jobs-51job](https://github.com/uniStark/get-jobs-51job) · [get-jobs-lagou](https://github.com/uniStark/get-jobs-lagou) `Java` — Automated job applications on Boss直聘, 前程无忧 and 拉勾. 88 stars combined.
 
-### 📌 Featured
+**[taobao-buyer](https://github.com/uniStark/taobao-buyer)** · [pinduoduo-buyer](https://github.com/uniStark/pinduoduo-buyer) `Java` — 秒杀 automation for Taobao and Pinduoduo. 35 stars combined.
 
-<a href="https://github.com/uniStark/token-used">
-  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=token-used&hide_border=true&theme=tokyonight" alt="token-used" />
-</a>
-<a href="https://github.com/uniStark/openwaner">
-  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=openwaner&hide_border=true&theme=tokyonight" alt="openwaner" />
-</a>
-<a href="https://github.com/uniStark/get-jobs-boss">
-  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=get-jobs-boss&hide_border=true&theme=tokyonight" alt="get-jobs-boss" />
-</a>
-<a href="https://github.com/uniStark/todos">
-  <img src="https://unistark-stats.vercel.app/api/pin/?username=uniStark&repo=todos&hide_border=true&theme=tokyonight" alt="todos" />
-</a>
+**[openwaner](https://github.com/uniStark/openwaner)** — Blueprint for a local AI chief-of-staff: one front persona, capability routing, layered memory, explicit execution rules.
 
-### 📮 Get in Touch
-
-- ✉️ &nbsp;[beammstark@gmail.com](mailto:beammstark@gmail.com)
-- 𝕏 &nbsp;[@0xuniStark](https://x.com/0xuniStark)
+**[starks_skill](https://github.com/uniStark/starks_skill)** `Shell` — Tiered task-launcher skill for Claude Code and Codex, with optional cross-model plan review (Claude ↔ Codex) and parallel sub-agents.
 
 ---
 
-<div align="center">
-
-✌️ Peace & love
-
-<img src="https://komarev.com/ghpvc/?username=uniStark&color=blueviolet&label=visitors" alt="visitor counter" />
-
-</div>
+<sub>Open to collaborations on agent tooling and native macOS utilities. Based in China, working in English and Chinese.</sub>
