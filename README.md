@@ -6,7 +6,7 @@
 
 `Swift` `SwiftUI` `TypeScript` `React` `Python` `Java`
 
-[Portfolio](https://portfolio-unistark.vercel.app) &nbsp;·&nbsp; [X](https://x.com/0xuniStark) &nbsp;·&nbsp; [Email](mailto:beammstark@gmail.com)
+[X](https://x.com/0xuniStark) &nbsp;·&nbsp; [Email](mailto:beammstark@gmail.com)
 
 </div>
 
